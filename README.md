@@ -12,6 +12,7 @@
   <img align="center" alt="Vitor-HTML" height="30" width="80" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Vitor-CSS" height="30" width="80" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Vitor-Python" height="30" width="80" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img align="right" height="120" width="120" src="https://media2.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif?cid=ecf05e47gledwkx9vatxbajc0vf4ujbo0tdpcaxqet6t3hwd&rid=giphy.gif&ct=g"
 </div>
 
  ##
