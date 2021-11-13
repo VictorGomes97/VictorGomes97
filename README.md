@@ -1,9 +1,9 @@
-### Olá Eu sou Victor Gomes
+# Olá Eu sou Victor Gomes
 
 - 🌱 Atualmente estou estudando Python
 - 😄 Pronomes: Ele/Dele
 - Possuo grande interesse pela área tecnologica
-
+ 
 <div align="center">
   <a href="github.com/VictorGomes97">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorGomes97&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
